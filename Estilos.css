@@ -1,0 +1,54 @@
+#body{
+    background-color: darkgrey;
+}
+.table{   
+    margin-left: 10px; 
+    float: left;    
+    width: 47%;
+    }
+.table tr td{
+    border: black 5px solid;
+}
+.centrado{
+    text-align: center;
+}.centro{
+    margin: auto;
+}
+
+.header1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 30px;
+}
+form{
+    text-align: center;
+}
+label{
+    font-weight: bold;
+}
+input:hover{
+    background-color:wheat;
+}
+.centrar{
+    text-align: center;
+}
+.estilo{
+    padding: 10px;
+}
+#body{
+    padding: 20px;
+}
+.tabla2 tr td{
+    border: black 5px solid;
+}
+.tabla2{
+    margin: auto;
+}
+.parrafo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;  
+}
+.negrita{
+    font-weight: bold;
+
+}
